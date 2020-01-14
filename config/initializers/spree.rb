@@ -5,7 +5,7 @@ Spree.config do |config|
   # Core:
 
   # Default currency for new sites
-  config.currency = "USD"
+  config.currency = "CAD"
 
   # from address for transactional emails
   config.mails_from = "store@example.com"
@@ -34,6 +34,7 @@ Spree.config do |config|
 
   # Custom logo for the frontend
   # config.logo = "logo/solidus.svg"
+  config.logo = "logo/Mokey_logo.png"
 
   # Template to use when rendering layout
   # config.layout = "spree/layouts/spree_application"
